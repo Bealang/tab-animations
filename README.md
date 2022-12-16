@@ -1,2 +1,2 @@
-# tab-animations
-TAB - Animations allows you to easily create 
+# TAB Animations
+**Tab Animations**
