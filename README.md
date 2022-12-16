@@ -2,7 +2,9 @@
 **Tab Animations** jest to prosty skrypt który umożliwia
 robić odliczania od 1 do podanej liczby. Przydaje się do 
 jakichś odliczań, albo do paska zapełnienia w BOSSBAR.
-w programie podlinkowane jest kilka stron
+w programie podlinkowane jest kilka stron.
+
+Program jest oparty o plugin TAB.
 
 
 **Strona z animowanymi gradientami:** https://www.simplymc.art/AnimTab
